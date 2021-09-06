@@ -14,7 +14,7 @@ git clone https://github.com/NUS-Fintech-Society/ML_reddit_nlp.git
 To be updated with latest changes anyone has contributed run 
 
 ```
-git pull origin main
+git pull origin master
 ```
 
 To publish your new notebook/cleaned data, if you know how to commit and push go ahead, else send it to me (Cheng Ling) and I'll commit and push it.
